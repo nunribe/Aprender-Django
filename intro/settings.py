@@ -25,7 +25,7 @@ SECRET_KEY = 'q7mkk%o6c@!*tqxqo*=p#12c-99+9s4j+!%^wn+78*0=j)05ps'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [".run-eu-central1.goorm.io"]
+ALLOWED_HOSTS = ["projectod-amviw.run-eu-central1.goorm.io"]
 
 
 # Application definition
