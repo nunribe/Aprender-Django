@@ -1,3 +1,6 @@
+git remote add origin https://github.com/nunribe/intro-django-tutorial01-intro-django-goormide-tutorial01.git
+git branch -M main
+git push -u origin main
 # Introducción a Django
 
 Primeros pasos con Django utilizando el entorno de desarrollo GoormIDE, implementando los tutoriales básicos de la documentación de Django.
