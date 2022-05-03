@@ -173,8 +173,11 @@ Si desea poder acceder a esta aplicación desde la URL base del proyecto puede m
 path('', include('polls.urls')),
 ```
 
-```
+
 # GoormIDE
+
+
+```
 ┌───────────────────────────────────────────────┐
                                        _       
      __ _  ___   ___  _ __ _ __ ___   (_) ___  
