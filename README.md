@@ -1,4 +1,4 @@
-git remote add origin https://github.com/nunribe/intro-django-tutorial01-intro-django-goormide-tutorial01.git
+git remote add origin https://github.com/nunribe/introtut01-intro-django-goormide-tutorial02.git
 
 git branch -M main
 
